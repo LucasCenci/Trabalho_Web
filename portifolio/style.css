@@ -313,6 +313,7 @@ header {
 .conhecimento-text {
   font-family: var(--font-secundary);
   margin-top: 1rem;
+  padding-left: 1rem;
 }
 
 .conhecimentos-img-wrapper {
